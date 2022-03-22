@@ -8,4 +8,4 @@ The most interesting thing I developed last time was a daemon in Node.js to repl
 
 Currently I'm looking for a job as senior/lead backend developer in Node.js with relocation for my family 🚜 
 
-Against the Putin War in Ukraine 🇺🇦
+Against the Putin's War in Ukraine 🇺🇦
