@@ -6,6 +6,6 @@ Was lucky to work in well-known companies like Avito (was a part of "A-Team"), O
 
 The most interesting thing I developed last time was a daemon in Node.js to replicate MongoDB Changestream into PostgreSQL. In short it was an initial binary `copy` and then translating changes via transaction batches with ability to normalize and calculate something from this data in real-time.
 
-Against the Putin War in Ukraine 🇺🇦
-
 Currently I'm looking for a job as senior/lead backend developer in Node.js with relocation for my family 🚜 
+
+Against the Putin War in Ukraine 🇺🇦
