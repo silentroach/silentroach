@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm Igor (*[ee·gor]*) and I write code in Node.js. I prefer strong types so I'm using Typescript in strict mode.
+I'm Igor *[ee·gor]* and I write code in Node.js. I prefer strong types so I'm using Typescript in strict mode.
 
 Was lucky to work in well-known Russian companies like Avito, OneTwoTrip, X5 and Raiffeisen Bank.
 
