@@ -4,4 +4,4 @@ I'm Igor *[ee·gor]*, and I write code in Node.js. I prefer strong types, so I u
 
 Currently, I work at [inDrive](https://github.com/indriver) as a Principal Engineer.
 
-I was lucky to be a part of well-known companies like [Avito](https://www.avito.ru "The biggest classified in the world"), [OneTwoTrip](https://www.onetwotrip.com/en-us/ "Hotel search engine"), [Raiffeisen Bank](https://www.raiffeisen.ru/en/) and [X5](https://www.x5.ru/en/ "Top-3 grocery delivery service").
+Before it I was lucky to be a part of well-known companies like [Avito](https://www.avito.ru "The biggest classified in the world"), [OneTwoTrip](https://www.onetwotrip.com/en-us/ "Hotel search engine"), [Raiffeisen Bank](https://www.raiffeisen.ru/en/) and [X5](https://www.x5.ru/en/ "Top-3 grocery delivery service").
