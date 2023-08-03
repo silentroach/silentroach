@@ -6,4 +6,4 @@ Currently, I hold the position of Principal Engineer at [inDrive](https://github
 
 Before joining inDrive, I was fortunate enough to be a part of well-known companies such as [Avito](https://www.avito.ru "The largest classified in the world"), [OneTwoTrip](https://www.onetwotrip.com/en-us/ "Hotel search engine"), [Raiffeisen Bank](https://www.raiffeisen.ru/en/), and [X5](https://www.x5.ru/en/ "Top-3 grocery delivery service").
 
-If you're a company interested in offering me an opportunity, especially if it involves relocation 🚜 to the United States, please don't hesitate to reach out to me.
+With 20+ years of experience, including work on top-tier high-load projects, I can assist you as a consultant by reviewing your project's backend code in TypeScript or JavaScript. I'll identify weak spots, security issues, and areas that can be optimized. If you're a company interested in offering me an opportunity, especially if it involves relocation 🚜 to the United States, please don't hesitate to reach out to me.
